@@ -1,7 +1,5 @@
 # filix
 
-**Remix for Filecoin**
-
 `filix` consists of a collection of tools developed by ChainSafe for use with
 Filecoin and the Filecoin Virtual Machine. `filix` hopes to facilitate developers
 who work with the Filecoin VM by providing:
