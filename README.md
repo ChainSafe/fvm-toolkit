@@ -1,7 +1,7 @@
-# filix
+# FVM Toolkit
 
-`filix` consists of a collection of tools developed by ChainSafe for use with
-Filecoin and the Filecoin Virtual Machine. `filix` hopes to facilitate developers
+The FVM toolkit consists of a collection of tools developed by ChainSafe for use with
+Filecoin and the Filecoin Virtual Machine. This toolkit hopes to facilitate developers
 who work with the Filecoin VM by providing:
 
 1. A build tool that can:
@@ -47,7 +47,7 @@ who work with the Filecoin VM by providing:
 
 <!--
   TODO: Expand upon the usage, installation and link to other relevant pieces
-  of documentation here. Figure out if we want to host a "filix book" in the
+  of documentation here. Figure out if we want to host a "fvm-toolkit book" in the
   vein of "forest book", but with all the architectural and development
   documentation.
 -->
